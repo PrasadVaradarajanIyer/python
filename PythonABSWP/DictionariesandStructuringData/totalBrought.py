@@ -1,3 +1,5 @@
+#Program to track total number of accessories a have been brought by all the players
+
 allPlayers = {'Prasad': {'TTRacket': 2, 'TTBalls': 5, 'CricketBat': 1, 'CricketBalls': 3},
 	       'Nilesh': {'CricketBat': 2, 'CricketBalls': 1, 'BasketBall': 1},
 	       'Priyanka': {'BadmintonRacket': 2, 'ShuttleCock': 5, 'SquashRacket': 2},
